@@ -1,0 +1,1538 @@
+n is 3
+
+The max number 2^(n^2)-1 = 0
+Binary form: 0
+empty set
+The max number 2^(n^2)-1 = 1
+Binary form: 1
+(1,1) 
+The max number 2^(n^2)-1 = 2
+Binary form: 10
+(1,2) 
+The max number 2^(n^2)-1 = 3
+Binary form: 11
+(1,1) (1,2) 
+The max number 2^(n^2)-1 = 4
+Binary form: 100
+(1,3) 
+The max number 2^(n^2)-1 = 5
+Binary form: 101
+(1,1) (1,3) 
+The max number 2^(n^2)-1 = 6
+Binary form: 110
+(1,2) (1,3) 
+The max number 2^(n^2)-1 = 7
+Binary form: 111
+(1,1) (1,2) (1,3) 
+The max number 2^(n^2)-1 = 8
+Binary form: 1000
+(1,4) 
+The max number 2^(n^2)-1 = 9
+Binary form: 1001
+(1,1) (1,4) 
+The max number 2^(n^2)-1 = 10
+Binary form: 1010
+(1,2) (1,4) 
+The max number 2^(n^2)-1 = 11
+Binary form: 1011
+(1,1) (1,2) (1,4) 
+The max number 2^(n^2)-1 = 12
+Binary form: 1100
+(1,3) (1,4) 
+The max number 2^(n^2)-1 = 13
+Binary form: 1101
+(1,1) (1,3) (1,4) 
+The max number 2^(n^2)-1 = 14
+Binary form: 1110
+(1,2) (1,3) (1,4) 
+The max number 2^(n^2)-1 = 15
+Binary form: 1111
+(1,1) (1,2) (1,3) (1,4) 
+The max number 2^(n^2)-1 = 16
+Binary form: 10000
+(2,1) 
+The max number 2^(n^2)-1 = 17
+Binary form: 10001
+(1,1) (2,1) 
+The max number 2^(n^2)-1 = 18
+Binary form: 10010
+(1,2) (2,1) 
+The max number 2^(n^2)-1 = 19
+Binary form: 10011
+(1,1) (1,2) (2,1) 
+The max number 2^(n^2)-1 = 20
+Binary form: 10100
+(1,3) (2,1) 
+The max number 2^(n^2)-1 = 21
+Binary form: 10101
+(1,1) (1,3) (2,1) 
+The max number 2^(n^2)-1 = 22
+Binary form: 10110
+(1,2) (1,3) (2,1) 
+The max number 2^(n^2)-1 = 23
+Binary form: 10111
+(1,1) (1,2) (1,3) (2,1) 
+The max number 2^(n^2)-1 = 24
+Binary form: 11000
+(1,4) (2,1) 
+The max number 2^(n^2)-1 = 25
+Binary form: 11001
+(1,1) (1,4) (2,1) 
+The max number 2^(n^2)-1 = 26
+Binary form: 11010
+(1,2) (1,4) (2,1) 
+The max number 2^(n^2)-1 = 27
+Binary form: 11011
+(1,1) (1,2) (1,4) (2,1) 
+The max number 2^(n^2)-1 = 28
+Binary form: 11100
+(1,3) (1,4) (2,1) 
+The max number 2^(n^2)-1 = 29
+Binary form: 11101
+(1,1) (1,3) (1,4) (2,1) 
+The max number 2^(n^2)-1 = 30
+Binary form: 11110
+(1,2) (1,3) (1,4) (2,1) 
+The max number 2^(n^2)-1 = 31
+Binary form: 11111
+(1,1) (1,2) (1,3) (1,4) (2,1) 
+The max number 2^(n^2)-1 = 32
+Binary form: 100000
+(2,2) 
+The max number 2^(n^2)-1 = 33
+Binary form: 100001
+(1,1) (2,2) 
+The max number 2^(n^2)-1 = 34
+Binary form: 100010
+(1,2) (2,2) 
+The max number 2^(n^2)-1 = 35
+Binary form: 100011
+(1,1) (1,2) (2,2) 
+The max number 2^(n^2)-1 = 36
+Binary form: 100100
+(1,3) (2,2) 
+The max number 2^(n^2)-1 = 37
+Binary form: 100101
+(1,1) (1,3) (2,2) 
+The max number 2^(n^2)-1 = 38
+Binary form: 100110
+(1,2) (1,3) (2,2) 
+The max number 2^(n^2)-1 = 39
+Binary form: 100111
+(1,1) (1,2) (1,3) (2,2) 
+The max number 2^(n^2)-1 = 40
+Binary form: 101000
+(1,4) (2,2) 
+The max number 2^(n^2)-1 = 41
+Binary form: 101001
+(1,1) (1,4) (2,2) 
+The max number 2^(n^2)-1 = 42
+Binary form: 101010
+(1,2) (1,4) (2,2) 
+The max number 2^(n^2)-1 = 43
+Binary form: 101011
+(1,1) (1,2) (1,4) (2,2) 
+The max number 2^(n^2)-1 = 44
+Binary form: 101100
+(1,3) (1,4) (2,2) 
+The max number 2^(n^2)-1 = 45
+Binary form: 101101
+(1,1) (1,3) (1,4) (2,2) 
+The max number 2^(n^2)-1 = 46
+Binary form: 101110
+(1,2) (1,3) (1,4) (2,2) 
+The max number 2^(n^2)-1 = 47
+Binary form: 101111
+(1,1) (1,2) (1,3) (1,4) (2,2) 
+The max number 2^(n^2)-1 = 48
+Binary form: 110000
+(2,1) (2,2) 
+The max number 2^(n^2)-1 = 49
+Binary form: 110001
+(1,1) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 50
+Binary form: 110010
+(1,2) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 51
+Binary form: 110011
+(1,1) (1,2) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 52
+Binary form: 110100
+(1,3) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 53
+Binary form: 110101
+(1,1) (1,3) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 54
+Binary form: 110110
+(1,2) (1,3) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 55
+Binary form: 110111
+(1,1) (1,2) (1,3) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 56
+Binary form: 111000
+(1,4) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 57
+Binary form: 111001
+(1,1) (1,4) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 58
+Binary form: 111010
+(1,2) (1,4) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 59
+Binary form: 111011
+(1,1) (1,2) (1,4) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 60
+Binary form: 111100
+(1,3) (1,4) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 61
+Binary form: 111101
+(1,1) (1,3) (1,4) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 62
+Binary form: 111110
+(1,2) (1,3) (1,4) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 63
+Binary form: 111111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,2) 
+The max number 2^(n^2)-1 = 64
+Binary form: 1000000
+(2,3) 
+The max number 2^(n^2)-1 = 65
+Binary form: 1000001
+(1,1) (2,3) 
+The max number 2^(n^2)-1 = 66
+Binary form: 1000010
+(1,2) (2,3) 
+The max number 2^(n^2)-1 = 67
+Binary form: 1000011
+(1,1) (1,2) (2,3) 
+The max number 2^(n^2)-1 = 68
+Binary form: 1000100
+(1,3) (2,3) 
+The max number 2^(n^2)-1 = 69
+Binary form: 1000101
+(1,1) (1,3) (2,3) 
+The max number 2^(n^2)-1 = 70
+Binary form: 1000110
+(1,2) (1,3) (2,3) 
+The max number 2^(n^2)-1 = 71
+Binary form: 1000111
+(1,1) (1,2) (1,3) (2,3) 
+The max number 2^(n^2)-1 = 72
+Binary form: 1001000
+(1,4) (2,3) 
+The max number 2^(n^2)-1 = 73
+Binary form: 1001001
+(1,1) (1,4) (2,3) 
+The max number 2^(n^2)-1 = 74
+Binary form: 1001010
+(1,2) (1,4) (2,3) 
+The max number 2^(n^2)-1 = 75
+Binary form: 1001011
+(1,1) (1,2) (1,4) (2,3) 
+The max number 2^(n^2)-1 = 76
+Binary form: 1001100
+(1,3) (1,4) (2,3) 
+The max number 2^(n^2)-1 = 77
+Binary form: 1001101
+(1,1) (1,3) (1,4) (2,3) 
+The max number 2^(n^2)-1 = 78
+Binary form: 1001110
+(1,2) (1,3) (1,4) (2,3) 
+The max number 2^(n^2)-1 = 79
+Binary form: 1001111
+(1,1) (1,2) (1,3) (1,4) (2,3) 
+The max number 2^(n^2)-1 = 80
+Binary form: 1010000
+(2,1) (2,3) 
+The max number 2^(n^2)-1 = 81
+Binary form: 1010001
+(1,1) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 82
+Binary form: 1010010
+(1,2) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 83
+Binary form: 1010011
+(1,1) (1,2) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 84
+Binary form: 1010100
+(1,3) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 85
+Binary form: 1010101
+(1,1) (1,3) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 86
+Binary form: 1010110
+(1,2) (1,3) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 87
+Binary form: 1010111
+(1,1) (1,2) (1,3) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 88
+Binary form: 1011000
+(1,4) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 89
+Binary form: 1011001
+(1,1) (1,4) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 90
+Binary form: 1011010
+(1,2) (1,4) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 91
+Binary form: 1011011
+(1,1) (1,2) (1,4) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 92
+Binary form: 1011100
+(1,3) (1,4) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 93
+Binary form: 1011101
+(1,1) (1,3) (1,4) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 94
+Binary form: 1011110
+(1,2) (1,3) (1,4) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 95
+Binary form: 1011111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,3) 
+The max number 2^(n^2)-1 = 96
+Binary form: 1100000
+(2,2) (2,3) 
+The max number 2^(n^2)-1 = 97
+Binary form: 1100001
+(1,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 98
+Binary form: 1100010
+(1,2) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 99
+Binary form: 1100011
+(1,1) (1,2) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 100
+Binary form: 1100100
+(1,3) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 101
+Binary form: 1100101
+(1,1) (1,3) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 102
+Binary form: 1100110
+(1,2) (1,3) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 103
+Binary form: 1100111
+(1,1) (1,2) (1,3) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 104
+Binary form: 1101000
+(1,4) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 105
+Binary form: 1101001
+(1,1) (1,4) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 106
+Binary form: 1101010
+(1,2) (1,4) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 107
+Binary form: 1101011
+(1,1) (1,2) (1,4) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 108
+Binary form: 1101100
+(1,3) (1,4) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 109
+Binary form: 1101101
+(1,1) (1,3) (1,4) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 110
+Binary form: 1101110
+(1,2) (1,3) (1,4) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 111
+Binary form: 1101111
+(1,1) (1,2) (1,3) (1,4) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 112
+Binary form: 1110000
+(2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 113
+Binary form: 1110001
+(1,1) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 114
+Binary form: 1110010
+(1,2) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 115
+Binary form: 1110011
+(1,1) (1,2) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 116
+Binary form: 1110100
+(1,3) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 117
+Binary form: 1110101
+(1,1) (1,3) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 118
+Binary form: 1110110
+(1,2) (1,3) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 119
+Binary form: 1110111
+(1,1) (1,2) (1,3) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 120
+Binary form: 1111000
+(1,4) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 121
+Binary form: 1111001
+(1,1) (1,4) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 122
+Binary form: 1111010
+(1,2) (1,4) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 123
+Binary form: 1111011
+(1,1) (1,2) (1,4) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 124
+Binary form: 1111100
+(1,3) (1,4) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 125
+Binary form: 1111101
+(1,1) (1,3) (1,4) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 126
+Binary form: 1111110
+(1,2) (1,3) (1,4) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 127
+Binary form: 1111111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,2) (2,3) 
+The max number 2^(n^2)-1 = 128
+Binary form: 10000000
+(2,4) 
+The max number 2^(n^2)-1 = 129
+Binary form: 10000001
+(1,1) (2,4) 
+The max number 2^(n^2)-1 = 130
+Binary form: 10000010
+(1,2) (2,4) 
+The max number 2^(n^2)-1 = 131
+Binary form: 10000011
+(1,1) (1,2) (2,4) 
+The max number 2^(n^2)-1 = 132
+Binary form: 10000100
+(1,3) (2,4) 
+The max number 2^(n^2)-1 = 133
+Binary form: 10000101
+(1,1) (1,3) (2,4) 
+The max number 2^(n^2)-1 = 134
+Binary form: 10000110
+(1,2) (1,3) (2,4) 
+The max number 2^(n^2)-1 = 135
+Binary form: 10000111
+(1,1) (1,2) (1,3) (2,4) 
+The max number 2^(n^2)-1 = 136
+Binary form: 10001000
+(1,4) (2,4) 
+The max number 2^(n^2)-1 = 137
+Binary form: 10001001
+(1,1) (1,4) (2,4) 
+The max number 2^(n^2)-1 = 138
+Binary form: 10001010
+(1,2) (1,4) (2,4) 
+The max number 2^(n^2)-1 = 139
+Binary form: 10001011
+(1,1) (1,2) (1,4) (2,4) 
+The max number 2^(n^2)-1 = 140
+Binary form: 10001100
+(1,3) (1,4) (2,4) 
+The max number 2^(n^2)-1 = 141
+Binary form: 10001101
+(1,1) (1,3) (1,4) (2,4) 
+The max number 2^(n^2)-1 = 142
+Binary form: 10001110
+(1,2) (1,3) (1,4) (2,4) 
+The max number 2^(n^2)-1 = 143
+Binary form: 10001111
+(1,1) (1,2) (1,3) (1,4) (2,4) 
+The max number 2^(n^2)-1 = 144
+Binary form: 10010000
+(2,1) (2,4) 
+The max number 2^(n^2)-1 = 145
+Binary form: 10010001
+(1,1) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 146
+Binary form: 10010010
+(1,2) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 147
+Binary form: 10010011
+(1,1) (1,2) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 148
+Binary form: 10010100
+(1,3) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 149
+Binary form: 10010101
+(1,1) (1,3) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 150
+Binary form: 10010110
+(1,2) (1,3) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 151
+Binary form: 10010111
+(1,1) (1,2) (1,3) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 152
+Binary form: 10011000
+(1,4) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 153
+Binary form: 10011001
+(1,1) (1,4) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 154
+Binary form: 10011010
+(1,2) (1,4) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 155
+Binary form: 10011011
+(1,1) (1,2) (1,4) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 156
+Binary form: 10011100
+(1,3) (1,4) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 157
+Binary form: 10011101
+(1,1) (1,3) (1,4) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 158
+Binary form: 10011110
+(1,2) (1,3) (1,4) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 159
+Binary form: 10011111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,4) 
+The max number 2^(n^2)-1 = 160
+Binary form: 10100000
+(2,2) (2,4) 
+The max number 2^(n^2)-1 = 161
+Binary form: 10100001
+(1,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 162
+Binary form: 10100010
+(1,2) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 163
+Binary form: 10100011
+(1,1) (1,2) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 164
+Binary form: 10100100
+(1,3) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 165
+Binary form: 10100101
+(1,1) (1,3) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 166
+Binary form: 10100110
+(1,2) (1,3) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 167
+Binary form: 10100111
+(1,1) (1,2) (1,3) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 168
+Binary form: 10101000
+(1,4) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 169
+Binary form: 10101001
+(1,1) (1,4) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 170
+Binary form: 10101010
+(1,2) (1,4) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 171
+Binary form: 10101011
+(1,1) (1,2) (1,4) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 172
+Binary form: 10101100
+(1,3) (1,4) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 173
+Binary form: 10101101
+(1,1) (1,3) (1,4) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 174
+Binary form: 10101110
+(1,2) (1,3) (1,4) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 175
+Binary form: 10101111
+(1,1) (1,2) (1,3) (1,4) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 176
+Binary form: 10110000
+(2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 177
+Binary form: 10110001
+(1,1) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 178
+Binary form: 10110010
+(1,2) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 179
+Binary form: 10110011
+(1,1) (1,2) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 180
+Binary form: 10110100
+(1,3) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 181
+Binary form: 10110101
+(1,1) (1,3) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 182
+Binary form: 10110110
+(1,2) (1,3) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 183
+Binary form: 10110111
+(1,1) (1,2) (1,3) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 184
+Binary form: 10111000
+(1,4) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 185
+Binary form: 10111001
+(1,1) (1,4) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 186
+Binary form: 10111010
+(1,2) (1,4) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 187
+Binary form: 10111011
+(1,1) (1,2) (1,4) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 188
+Binary form: 10111100
+(1,3) (1,4) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 189
+Binary form: 10111101
+(1,1) (1,3) (1,4) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 190
+Binary form: 10111110
+(1,2) (1,3) (1,4) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 191
+Binary form: 10111111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,2) (2,4) 
+The max number 2^(n^2)-1 = 192
+Binary form: 11000000
+(2,3) (2,4) 
+The max number 2^(n^2)-1 = 193
+Binary form: 11000001
+(1,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 194
+Binary form: 11000010
+(1,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 195
+Binary form: 11000011
+(1,1) (1,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 196
+Binary form: 11000100
+(1,3) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 197
+Binary form: 11000101
+(1,1) (1,3) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 198
+Binary form: 11000110
+(1,2) (1,3) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 199
+Binary form: 11000111
+(1,1) (1,2) (1,3) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 200
+Binary form: 11001000
+(1,4) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 201
+Binary form: 11001001
+(1,1) (1,4) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 202
+Binary form: 11001010
+(1,2) (1,4) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 203
+Binary form: 11001011
+(1,1) (1,2) (1,4) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 204
+Binary form: 11001100
+(1,3) (1,4) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 205
+Binary form: 11001101
+(1,1) (1,3) (1,4) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 206
+Binary form: 11001110
+(1,2) (1,3) (1,4) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 207
+Binary form: 11001111
+(1,1) (1,2) (1,3) (1,4) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 208
+Binary form: 11010000
+(2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 209
+Binary form: 11010001
+(1,1) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 210
+Binary form: 11010010
+(1,2) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 211
+Binary form: 11010011
+(1,1) (1,2) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 212
+Binary form: 11010100
+(1,3) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 213
+Binary form: 11010101
+(1,1) (1,3) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 214
+Binary form: 11010110
+(1,2) (1,3) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 215
+Binary form: 11010111
+(1,1) (1,2) (1,3) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 216
+Binary form: 11011000
+(1,4) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 217
+Binary form: 11011001
+(1,1) (1,4) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 218
+Binary form: 11011010
+(1,2) (1,4) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 219
+Binary form: 11011011
+(1,1) (1,2) (1,4) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 220
+Binary form: 11011100
+(1,3) (1,4) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 221
+Binary form: 11011101
+(1,1) (1,3) (1,4) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 222
+Binary form: 11011110
+(1,2) (1,3) (1,4) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 223
+Binary form: 11011111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 224
+Binary form: 11100000
+(2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 225
+Binary form: 11100001
+(1,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 226
+Binary form: 11100010
+(1,2) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 227
+Binary form: 11100011
+(1,1) (1,2) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 228
+Binary form: 11100100
+(1,3) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 229
+Binary form: 11100101
+(1,1) (1,3) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 230
+Binary form: 11100110
+(1,2) (1,3) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 231
+Binary form: 11100111
+(1,1) (1,2) (1,3) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 232
+Binary form: 11101000
+(1,4) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 233
+Binary form: 11101001
+(1,1) (1,4) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 234
+Binary form: 11101010
+(1,2) (1,4) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 235
+Binary form: 11101011
+(1,1) (1,2) (1,4) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 236
+Binary form: 11101100
+(1,3) (1,4) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 237
+Binary form: 11101101
+(1,1) (1,3) (1,4) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 238
+Binary form: 11101110
+(1,2) (1,3) (1,4) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 239
+Binary form: 11101111
+(1,1) (1,2) (1,3) (1,4) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 240
+Binary form: 11110000
+(2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 241
+Binary form: 11110001
+(1,1) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 242
+Binary form: 11110010
+(1,2) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 243
+Binary form: 11110011
+(1,1) (1,2) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 244
+Binary form: 11110100
+(1,3) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 245
+Binary form: 11110101
+(1,1) (1,3) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 246
+Binary form: 11110110
+(1,2) (1,3) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 247
+Binary form: 11110111
+(1,1) (1,2) (1,3) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 248
+Binary form: 11111000
+(1,4) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 249
+Binary form: 11111001
+(1,1) (1,4) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 250
+Binary form: 11111010
+(1,2) (1,4) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 251
+Binary form: 11111011
+(1,1) (1,2) (1,4) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 252
+Binary form: 11111100
+(1,3) (1,4) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 253
+Binary form: 11111101
+(1,1) (1,3) (1,4) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 254
+Binary form: 11111110
+(1,2) (1,3) (1,4) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 255
+Binary form: 11111111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,2) (2,3) (2,4) 
+The max number 2^(n^2)-1 = 256
+Binary form: 100000000
+(3,1) 
+The max number 2^(n^2)-1 = 257
+Binary form: 100000001
+(1,1) (3,1) 
+The max number 2^(n^2)-1 = 258
+Binary form: 100000010
+(1,2) (3,1) 
+The max number 2^(n^2)-1 = 259
+Binary form: 100000011
+(1,1) (1,2) (3,1) 
+The max number 2^(n^2)-1 = 260
+Binary form: 100000100
+(1,3) (3,1) 
+The max number 2^(n^2)-1 = 261
+Binary form: 100000101
+(1,1) (1,3) (3,1) 
+The max number 2^(n^2)-1 = 262
+Binary form: 100000110
+(1,2) (1,3) (3,1) 
+The max number 2^(n^2)-1 = 263
+Binary form: 100000111
+(1,1) (1,2) (1,3) (3,1) 
+The max number 2^(n^2)-1 = 264
+Binary form: 100001000
+(1,4) (3,1) 
+The max number 2^(n^2)-1 = 265
+Binary form: 100001001
+(1,1) (1,4) (3,1) 
+The max number 2^(n^2)-1 = 266
+Binary form: 100001010
+(1,2) (1,4) (3,1) 
+The max number 2^(n^2)-1 = 267
+Binary form: 100001011
+(1,1) (1,2) (1,4) (3,1) 
+The max number 2^(n^2)-1 = 268
+Binary form: 100001100
+(1,3) (1,4) (3,1) 
+The max number 2^(n^2)-1 = 269
+Binary form: 100001101
+(1,1) (1,3) (1,4) (3,1) 
+The max number 2^(n^2)-1 = 270
+Binary form: 100001110
+(1,2) (1,3) (1,4) (3,1) 
+The max number 2^(n^2)-1 = 271
+Binary form: 100001111
+(1,1) (1,2) (1,3) (1,4) (3,1) 
+The max number 2^(n^2)-1 = 272
+Binary form: 100010000
+(2,1) (3,1) 
+The max number 2^(n^2)-1 = 273
+Binary form: 100010001
+(1,1) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 274
+Binary form: 100010010
+(1,2) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 275
+Binary form: 100010011
+(1,1) (1,2) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 276
+Binary form: 100010100
+(1,3) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 277
+Binary form: 100010101
+(1,1) (1,3) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 278
+Binary form: 100010110
+(1,2) (1,3) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 279
+Binary form: 100010111
+(1,1) (1,2) (1,3) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 280
+Binary form: 100011000
+(1,4) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 281
+Binary form: 100011001
+(1,1) (1,4) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 282
+Binary form: 100011010
+(1,2) (1,4) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 283
+Binary form: 100011011
+(1,1) (1,2) (1,4) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 284
+Binary form: 100011100
+(1,3) (1,4) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 285
+Binary form: 100011101
+(1,1) (1,3) (1,4) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 286
+Binary form: 100011110
+(1,2) (1,3) (1,4) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 287
+Binary form: 100011111
+(1,1) (1,2) (1,3) (1,4) (2,1) (3,1) 
+The max number 2^(n^2)-1 = 288
+Binary form: 100100000
+(2,2) (3,1) 
+The max number 2^(n^2)-1 = 289
+Binary form: 100100001
+(1,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 290
+Binary form: 100100010
+(1,2) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 291
+Binary form: 100100011
+(1,1) (1,2) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 292
+Binary form: 100100100
+(1,3) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 293
+Binary form: 100100101
+(1,1) (1,3) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 294
+Binary form: 100100110
+(1,2) (1,3) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 295
+Binary form: 100100111
+(1,1) (1,2) (1,3) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 296
+Binary form: 100101000
+(1,4) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 297
+Binary form: 100101001
+(1,1) (1,4) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 298
+Binary form: 100101010
+(1,2) (1,4) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 299
+Binary form: 100101011
+(1,1) (1,2) (1,4) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 300
+Binary form: 100101100
+(1,3) (1,4) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 301
+Binary form: 100101101
+(1,1) (1,3) (1,4) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 302
+Binary form: 100101110
+(1,2) (1,3) (1,4) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 303
+Binary form: 100101111
+(1,1) (1,2) (1,3) (1,4) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 304
+Binary form: 100110000
+(2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 305
+Binary form: 100110001
+(1,1) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 306
+Binary form: 100110010
+(1,2) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 307
+Binary form: 100110011
+(1,1) (1,2) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 308
+Binary form: 100110100
+(1,3) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 309
+Binary form: 100110101
+(1,1) (1,3) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 310
+Binary form: 100110110
+(1,2) (1,3) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 311
+Binary form: 100110111
+(1,1) (1,2) (1,3) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 312
+Binary form: 100111000
+(1,4) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 313
+Binary form: 100111001
+(1,1) (1,4) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 314
+Binary form: 100111010
+(1,2) (1,4) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 315
+Binary form: 100111011
+(1,1) (1,2) (1,4) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 316
+Binary form: 100111100
+(1,3) (1,4) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 317
+Binary form: 100111101
+(1,1) (1,3) (1,4) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 318
+Binary form: 100111110
+(1,2) (1,3) (1,4) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 319
+Binary form: 100111111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,2) (3,1) 
+The max number 2^(n^2)-1 = 320
+Binary form: 101000000
+(2,3) (3,1) 
+The max number 2^(n^2)-1 = 321
+Binary form: 101000001
+(1,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 322
+Binary form: 101000010
+(1,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 323
+Binary form: 101000011
+(1,1) (1,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 324
+Binary form: 101000100
+(1,3) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 325
+Binary form: 101000101
+(1,1) (1,3) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 326
+Binary form: 101000110
+(1,2) (1,3) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 327
+Binary form: 101000111
+(1,1) (1,2) (1,3) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 328
+Binary form: 101001000
+(1,4) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 329
+Binary form: 101001001
+(1,1) (1,4) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 330
+Binary form: 101001010
+(1,2) (1,4) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 331
+Binary form: 101001011
+(1,1) (1,2) (1,4) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 332
+Binary form: 101001100
+(1,3) (1,4) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 333
+Binary form: 101001101
+(1,1) (1,3) (1,4) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 334
+Binary form: 101001110
+(1,2) (1,3) (1,4) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 335
+Binary form: 101001111
+(1,1) (1,2) (1,3) (1,4) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 336
+Binary form: 101010000
+(2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 337
+Binary form: 101010001
+(1,1) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 338
+Binary form: 101010010
+(1,2) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 339
+Binary form: 101010011
+(1,1) (1,2) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 340
+Binary form: 101010100
+(1,3) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 341
+Binary form: 101010101
+(1,1) (1,3) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 342
+Binary form: 101010110
+(1,2) (1,3) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 343
+Binary form: 101010111
+(1,1) (1,2) (1,3) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 344
+Binary form: 101011000
+(1,4) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 345
+Binary form: 101011001
+(1,1) (1,4) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 346
+Binary form: 101011010
+(1,2) (1,4) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 347
+Binary form: 101011011
+(1,1) (1,2) (1,4) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 348
+Binary form: 101011100
+(1,3) (1,4) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 349
+Binary form: 101011101
+(1,1) (1,3) (1,4) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 350
+Binary form: 101011110
+(1,2) (1,3) (1,4) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 351
+Binary form: 101011111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 352
+Binary form: 101100000
+(2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 353
+Binary form: 101100001
+(1,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 354
+Binary form: 101100010
+(1,2) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 355
+Binary form: 101100011
+(1,1) (1,2) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 356
+Binary form: 101100100
+(1,3) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 357
+Binary form: 101100101
+(1,1) (1,3) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 358
+Binary form: 101100110
+(1,2) (1,3) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 359
+Binary form: 101100111
+(1,1) (1,2) (1,3) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 360
+Binary form: 101101000
+(1,4) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 361
+Binary form: 101101001
+(1,1) (1,4) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 362
+Binary form: 101101010
+(1,2) (1,4) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 363
+Binary form: 101101011
+(1,1) (1,2) (1,4) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 364
+Binary form: 101101100
+(1,3) (1,4) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 365
+Binary form: 101101101
+(1,1) (1,3) (1,4) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 366
+Binary form: 101101110
+(1,2) (1,3) (1,4) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 367
+Binary form: 101101111
+(1,1) (1,2) (1,3) (1,4) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 368
+Binary form: 101110000
+(2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 369
+Binary form: 101110001
+(1,1) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 370
+Binary form: 101110010
+(1,2) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 371
+Binary form: 101110011
+(1,1) (1,2) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 372
+Binary form: 101110100
+(1,3) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 373
+Binary form: 101110101
+(1,1) (1,3) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 374
+Binary form: 101110110
+(1,2) (1,3) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 375
+Binary form: 101110111
+(1,1) (1,2) (1,3) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 376
+Binary form: 101111000
+(1,4) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 377
+Binary form: 101111001
+(1,1) (1,4) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 378
+Binary form: 101111010
+(1,2) (1,4) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 379
+Binary form: 101111011
+(1,1) (1,2) (1,4) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 380
+Binary form: 101111100
+(1,3) (1,4) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 381
+Binary form: 101111101
+(1,1) (1,3) (1,4) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 382
+Binary form: 101111110
+(1,2) (1,3) (1,4) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 383
+Binary form: 101111111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,2) (2,3) (3,1) 
+The max number 2^(n^2)-1 = 384
+Binary form: 110000000
+(2,4) (3,1) 
+The max number 2^(n^2)-1 = 385
+Binary form: 110000001
+(1,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 386
+Binary form: 110000010
+(1,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 387
+Binary form: 110000011
+(1,1) (1,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 388
+Binary form: 110000100
+(1,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 389
+Binary form: 110000101
+(1,1) (1,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 390
+Binary form: 110000110
+(1,2) (1,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 391
+Binary form: 110000111
+(1,1) (1,2) (1,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 392
+Binary form: 110001000
+(1,4) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 393
+Binary form: 110001001
+(1,1) (1,4) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 394
+Binary form: 110001010
+(1,2) (1,4) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 395
+Binary form: 110001011
+(1,1) (1,2) (1,4) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 396
+Binary form: 110001100
+(1,3) (1,4) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 397
+Binary form: 110001101
+(1,1) (1,3) (1,4) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 398
+Binary form: 110001110
+(1,2) (1,3) (1,4) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 399
+Binary form: 110001111
+(1,1) (1,2) (1,3) (1,4) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 400
+Binary form: 110010000
+(2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 401
+Binary form: 110010001
+(1,1) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 402
+Binary form: 110010010
+(1,2) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 403
+Binary form: 110010011
+(1,1) (1,2) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 404
+Binary form: 110010100
+(1,3) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 405
+Binary form: 110010101
+(1,1) (1,3) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 406
+Binary form: 110010110
+(1,2) (1,3) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 407
+Binary form: 110010111
+(1,1) (1,2) (1,3) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 408
+Binary form: 110011000
+(1,4) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 409
+Binary form: 110011001
+(1,1) (1,4) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 410
+Binary form: 110011010
+(1,2) (1,4) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 411
+Binary form: 110011011
+(1,1) (1,2) (1,4) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 412
+Binary form: 110011100
+(1,3) (1,4) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 413
+Binary form: 110011101
+(1,1) (1,3) (1,4) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 414
+Binary form: 110011110
+(1,2) (1,3) (1,4) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 415
+Binary form: 110011111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 416
+Binary form: 110100000
+(2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 417
+Binary form: 110100001
+(1,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 418
+Binary form: 110100010
+(1,2) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 419
+Binary form: 110100011
+(1,1) (1,2) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 420
+Binary form: 110100100
+(1,3) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 421
+Binary form: 110100101
+(1,1) (1,3) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 422
+Binary form: 110100110
+(1,2) (1,3) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 423
+Binary form: 110100111
+(1,1) (1,2) (1,3) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 424
+Binary form: 110101000
+(1,4) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 425
+Binary form: 110101001
+(1,1) (1,4) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 426
+Binary form: 110101010
+(1,2) (1,4) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 427
+Binary form: 110101011
+(1,1) (1,2) (1,4) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 428
+Binary form: 110101100
+(1,3) (1,4) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 429
+Binary form: 110101101
+(1,1) (1,3) (1,4) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 430
+Binary form: 110101110
+(1,2) (1,3) (1,4) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 431
+Binary form: 110101111
+(1,1) (1,2) (1,3) (1,4) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 432
+Binary form: 110110000
+(2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 433
+Binary form: 110110001
+(1,1) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 434
+Binary form: 110110010
+(1,2) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 435
+Binary form: 110110011
+(1,1) (1,2) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 436
+Binary form: 110110100
+(1,3) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 437
+Binary form: 110110101
+(1,1) (1,3) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 438
+Binary form: 110110110
+(1,2) (1,3) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 439
+Binary form: 110110111
+(1,1) (1,2) (1,3) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 440
+Binary form: 110111000
+(1,4) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 441
+Binary form: 110111001
+(1,1) (1,4) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 442
+Binary form: 110111010
+(1,2) (1,4) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 443
+Binary form: 110111011
+(1,1) (1,2) (1,4) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 444
+Binary form: 110111100
+(1,3) (1,4) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 445
+Binary form: 110111101
+(1,1) (1,3) (1,4) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 446
+Binary form: 110111110
+(1,2) (1,3) (1,4) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 447
+Binary form: 110111111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,2) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 448
+Binary form: 111000000
+(2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 449
+Binary form: 111000001
+(1,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 450
+Binary form: 111000010
+(1,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 451
+Binary form: 111000011
+(1,1) (1,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 452
+Binary form: 111000100
+(1,3) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 453
+Binary form: 111000101
+(1,1) (1,3) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 454
+Binary form: 111000110
+(1,2) (1,3) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 455
+Binary form: 111000111
+(1,1) (1,2) (1,3) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 456
+Binary form: 111001000
+(1,4) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 457
+Binary form: 111001001
+(1,1) (1,4) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 458
+Binary form: 111001010
+(1,2) (1,4) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 459
+Binary form: 111001011
+(1,1) (1,2) (1,4) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 460
+Binary form: 111001100
+(1,3) (1,4) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 461
+Binary form: 111001101
+(1,1) (1,3) (1,4) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 462
+Binary form: 111001110
+(1,2) (1,3) (1,4) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 463
+Binary form: 111001111
+(1,1) (1,2) (1,3) (1,4) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 464
+Binary form: 111010000
+(2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 465
+Binary form: 111010001
+(1,1) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 466
+Binary form: 111010010
+(1,2) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 467
+Binary form: 111010011
+(1,1) (1,2) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 468
+Binary form: 111010100
+(1,3) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 469
+Binary form: 111010101
+(1,1) (1,3) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 470
+Binary form: 111010110
+(1,2) (1,3) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 471
+Binary form: 111010111
+(1,1) (1,2) (1,3) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 472
+Binary form: 111011000
+(1,4) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 473
+Binary form: 111011001
+(1,1) (1,4) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 474
+Binary form: 111011010
+(1,2) (1,4) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 475
+Binary form: 111011011
+(1,1) (1,2) (1,4) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 476
+Binary form: 111011100
+(1,3) (1,4) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 477
+Binary form: 111011101
+(1,1) (1,3) (1,4) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 478
+Binary form: 111011110
+(1,2) (1,3) (1,4) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 479
+Binary form: 111011111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 480
+Binary form: 111100000
+(2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 481
+Binary form: 111100001
+(1,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 482
+Binary form: 111100010
+(1,2) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 483
+Binary form: 111100011
+(1,1) (1,2) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 484
+Binary form: 111100100
+(1,3) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 485
+Binary form: 111100101
+(1,1) (1,3) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 486
+Binary form: 111100110
+(1,2) (1,3) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 487
+Binary form: 111100111
+(1,1) (1,2) (1,3) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 488
+Binary form: 111101000
+(1,4) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 489
+Binary form: 111101001
+(1,1) (1,4) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 490
+Binary form: 111101010
+(1,2) (1,4) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 491
+Binary form: 111101011
+(1,1) (1,2) (1,4) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 492
+Binary form: 111101100
+(1,3) (1,4) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 493
+Binary form: 111101101
+(1,1) (1,3) (1,4) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 494
+Binary form: 111101110
+(1,2) (1,3) (1,4) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 495
+Binary form: 111101111
+(1,1) (1,2) (1,3) (1,4) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 496
+Binary form: 111110000
+(2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 497
+Binary form: 111110001
+(1,1) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 498
+Binary form: 111110010
+(1,2) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 499
+Binary form: 111110011
+(1,1) (1,2) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 500
+Binary form: 111110100
+(1,3) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 501
+Binary form: 111110101
+(1,1) (1,3) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 502
+Binary form: 111110110
+(1,2) (1,3) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 503
+Binary form: 111110111
+(1,1) (1,2) (1,3) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 504
+Binary form: 111111000
+(1,4) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 505
+Binary form: 111111001
+(1,1) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 506
+Binary form: 111111010
+(1,2) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 507
+Binary form: 111111011
+(1,1) (1,2) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 508
+Binary form: 111111100
+(1,3) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 509
+Binary form: 111111101
+(1,1) (1,3) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 510
+Binary form: 111111110
+(1,2) (1,3) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) 
+The max number 2^(n^2)-1 = 511
+Binary form: 111111111
+(1,1) (1,2) (1,3) (1,4) (2,1) (2,2) (2,3) (2,4) (3,1) 
